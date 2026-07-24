@@ -1,3 +1,9 @@
+// Primitive :
+// 7 Types : String, Number, BigInt, Boolean, Null, Undefined, Symbol
+
+// Non-Primitive :
+// 3 Types : Object, Array, Function
+
 "use strict"; // treat all JS code as newer version
 
 // alert ( 3 + 3 ) // we are using node.js, not a browser so alert won't work
